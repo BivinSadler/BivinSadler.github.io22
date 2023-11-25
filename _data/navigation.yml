@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "Whamo"
     url: /posts/
-  - title: "Categories"
+  - title: "Whamo2"
     url: /categories/
-  - title: "Tags"
+  - title: "Whamo3"
     url: /tags/
-  - title: "About"
+  - title: "Whamo4"
     url: /about/
